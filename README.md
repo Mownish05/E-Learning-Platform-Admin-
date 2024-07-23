@@ -1,3 +1,7 @@
+Name: Mownish H
+Company: Codtech IT Solutions
+ID: CT6WDS225
+
 # Admin E-Learning Dashboard
 
 ## Project Overview
